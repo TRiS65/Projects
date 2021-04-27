@@ -1,2 +1,2 @@
 # Rutgers
-Course cs211, prof Santosh Nagarakatte
+cs Course at Rutgers
