@@ -1,2 +1,2 @@
 # Rutgers
-cs Course at Rutgers
+CS Courses at Rutgers
